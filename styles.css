@@ -1,0 +1,22 @@
+.nav-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+    background: rgba(255, 89, 89, 0.979);
+    padding: 10px;
+    margin: auto;
+    border: 5px, solid, white;
+    height: 50px;
+}
+
+.nav-button {
+    color: white;
+    font-size: 15px;
+    background-color:rgba(255, 89, 89, 0.979);
+    padding: 10px;
+    margin: auto;
+    border: white, solid;
+    height: auto;
+    width:max-content;
+}
